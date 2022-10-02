@@ -1,0 +1,40 @@
+0
+Aluno 1
+- Nome: cleiton
+- Matricula: 01
+- nota1: 2
+- nota2: 3
+- nota3: 4
+- Sexo: masculino
+- Quantidade de faltas: 3
+- Série: 
+-------
+Aluno 2
+- Nome: cleiton
+- Matricula: 1
+- nota1: 3
+- nota2: 4
+- nota3: 5
+- Sexo: masculino
+- Quantidade de faltas: 3
+-------
+Aluno 3
+- Nome: cleiton
+- Matricula: 01
+- nota1: 1
+- nota2: 2
+- nota3: 3
+- Sexo: masculino
+- Quantidade de faltas: 4
+- media: 6
+-------
+Aluno 4
+- Nome: cle
+- Matricula: 34
+- nota1: 4
+- nota2: 5
+- nota3: 6
+- Sexo: m
+- Quantidade de faltas: 1
+- media: 3
+-------

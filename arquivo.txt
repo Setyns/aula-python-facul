@@ -1,1 +1,9 @@
 ola mundoola mundoola mundoola mundoola mundo
+Aluno 1
+- Nome: cleiton
+- CPF: 08377663220
+- Mãe: terezinha
+- Data de Nascimento: 25/04/1998
+- Idade: 24
+- Série: 3
+--------------------------------
